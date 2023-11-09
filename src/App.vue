@@ -23,6 +23,13 @@ export default {
 	methods: {},
 
 	computed: {},
+
+	mounted() {
+		// Refresh the page every 5 minutes (300,000 milliseconds)
+		setInterval(() => {
+			window.location.reload();
+		}, 300000);
+	}
 };
 </script>
 
