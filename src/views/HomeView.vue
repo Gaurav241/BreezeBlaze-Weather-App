@@ -29,7 +29,7 @@
 					<input class="form-check-input" type="checkbox" id="sliderCheckbox" v-model="sliderValue"
 						@change="toggleView" />
 					<label class="form-check-label" for="sliderCheckbox">
-						{{ isNextWeek ? "Next Week Weather" : "Today's Weather" }}
+						{{ isNextWeek ? "This Week Weather" : "Today's Weather" }}
 					</label>
 				</div>
 				<div>
