@@ -5,7 +5,7 @@
 	<footer>
 		<!-- Copyright -->
 		<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-			© 2023 Copyright:
+			© {{ currentYear }} Copyright:
 			<a href="https://github.com/Gaurav241">Gaurav</a>
 		</div>
 		<!-- Copyright -->
@@ -16,7 +16,9 @@
 export default {
 	name: "App",
 	data() {
-		return {};
+		return {
+			currentYear: new Date().getFullYear()
+		};
 	},
 	methods: {},
 
