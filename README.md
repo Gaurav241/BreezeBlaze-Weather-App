@@ -1,3 +1,19 @@
+## Table of Contents
+
+1. [Introduction](#breezeblaze-weather-app)
+2. [Deployed Website](#deployed-website)
+3. [Screenshots](#screenshots)
+    - [Desktop UI](#desktop-ui)
+    - [Mobile UI](#mobile-ui)
+4. [Features](#features)
+    - [Today's Weather](#todays-weather)
+    - [This Week's Weather](#this-weeks-weather)
+    - [Additional Information](#additional-information)
+5. [Technologies Used](#technologies-used)
+6. [Installation](#installation)
+7. [Contributions](#contributions)
+8. [License](#license)
+
 # BreezeBlaze-Weather App
 
 BreezeBlaze is a user-friendly weather application developed using Vue.js. It allows users to easily check the current weather and forecasts for today and the upcoming week. The app utilizes the OpenWeatherMap API for weather data and the OpenCage API for geolocation services.
