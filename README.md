@@ -6,6 +6,22 @@ BreezeBlaze is a user-friendly weather application developed using Vue.js. It al
 
 You can access the deployed BreezeBlaze website at [breezeblaze.netlify.app](https://breezeblaze.netlify.app/).
 
+## Screenshots
+
+### Desktop UI
+
+![Desktop Screenshot 1](visuals/ss/DesktopUI.png)
+
+![Desktop Screenshot 2](visuals/ss/DesktopUI1.png)
+
+![Desktop Screenshot 3](visuals/ss/DesktopUI2.png)
+
+### Mobile UI
+
+| Mobile UI - 1                              | Mobile UI - 2                                   | Mobile UI - 3                                |
+|:------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------:|
+| ![Mobile Screenshot 1](visuals/ss/MobileUI.png) | ![Mobile Screenshot 2](visuals/ss/MobileUI1.png) | ![Mobile Screenshot 3](visuals/ss/MobileUI2.png)   |
+
 ## Features
 
 ### Today's Weather
